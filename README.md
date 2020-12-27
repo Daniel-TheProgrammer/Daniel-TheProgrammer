@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there I am Daniel theProgrammer👋
 
 
-Here are some ideas to get you started:
+
 
 
 - 🔭 I’m currently working on ...Building A Solid Portfolio
 - 🌱 I’m currently learning ...Vue Js and Firebase
 - 👯 I’m looking to collaborate on ...Solving Real life Problems through Code
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...Programming
-- 📫 How to reach me: ... 
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...Code_Daily
 
 
