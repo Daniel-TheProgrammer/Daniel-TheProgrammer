@@ -13,6 +13,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Daniel-theProgrammer&show_icons=true&count_private=true)
 
+![](https://komarev.com/ghpvc/?username=Daniel-TheProgrammer)
 
 
  
