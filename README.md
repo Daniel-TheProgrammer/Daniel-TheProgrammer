@@ -25,7 +25,7 @@
 
 [![Mail Badge](https://img.shields.io/badge/-NjiDaniel-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:njid18753@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@NJIDANIEL4-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/@NJIDANIEL4)](https://twitter.com/@NJIDANIEL4/) [![Linkedin Badge](https://img.shields.io/badge/-NJI_DANIEL-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/NJI_DANIEL-0b8ba0195/)
- [![Mail Badge](https://img.shields.io/badge/-Daniel_theProgrammer-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://https://www.youtube.com/channel/UCRdnBImOdg1n2rcfxnY6F6Q)  [![Mail Badge](https://img.shields.io/badge/-@NJIDANIEL4-405DE6?style=flat&labelColor=5851DB&logo=instagram&logoColor=white)](https://instagram.com/NJI_DANIEL)
+ [![Mail Badge](https://img.shields.io/badge/-Daniel_theProgrammer-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://https://www.youtube.com/channel/UCRdnBImOdg1n2rcfxnY6F6QFnqP2zMA6A?view_as=subscriber)  [![Mail Badge](https://img.shields.io/badge/-@NJIDANIEL4-405DE6?style=flat&labelColor=5851DB&logo=instagram&logoColor=white)](https://instagram.com/NJI_DANIEL)
 
 
 
