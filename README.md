@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on ...Building A Solid Portfolio
-- 🌱 I’m currently learning ...Vue Js and Firebase
+- 🌱 I’m currently learning ...Vue Js and Firebase And other Real World Projects
 - 👯 I’m looking to collaborate on ...Solving Real life Problems through Code
 - 💬 Ask me about ...Programming
 - ⚡ Fun fact: ...Code_Daily
