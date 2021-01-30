@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning ...Vue Js and Firebase And other Real World Projects
 - 👯 I’m looking to collaborate on ...Solving Real life Problems through Code
 - 💬 Ask me about ...Programming
-- ⚡ Fun fact: ...Code_Daily
+- ⚡ Fun fact: ...Play Instruments,Code
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Daniel-theProgrammer&show_icons=true&count_private=true)
