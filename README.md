@@ -8,7 +8,7 @@
 
 ### WakaTime Stats (Coding activity)
 <p>
-    <a href="https://wakatime.com/@Daniel-TheProgrammer">
+    <a href="https://wakatime.com/Daniel-TheProgrammer">
         <img width="600" src="https://github.com/Daniel-TheProgrammer/Daniel-TheProgrammer/blob/master/images/stat.svg"
              alt="Daniel-TheProgrammer's WakaTime Activity."/>
     </a>
