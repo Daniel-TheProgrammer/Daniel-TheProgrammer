@@ -23,11 +23,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Daniel-TheProgrammer)
 
 #### 📫 How to reach me: ...
-*Good morning Guys..*
-Hope we are doing great..
 
-Please I will like to connect with you guys here 1 on 1 if you don't mind
-Am ```Daniel Theprogrammer ```😎👨🏾‍💻
 
 We can connect using this medium..
 
