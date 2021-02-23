@@ -28,15 +28,13 @@
 We can connect using this medium..
 
 1) Github: https://github.com/Daniel-TheProgrammer
-2)Twitter: https://twitter.com/NJIDANIEL4?s=09
-3)Instagram: https://www.instagram.com/p/CLYMwNLBYRH/?igshid=1p4o8w5a8opyj
 4)Linkedin: https://www.linkedin.com/in/nji-daniel-🇨🇲-96b964183
 5)Please subscribe to me on YouTube for more tech related stuffs🙏🏾: https://youtu.be/2QYtF8J0sls
 6)Whatsapp: +237671062539
 
 
 [![Mail Badge](https://img.shields.io/badge/-njidaniel-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:njid18753@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@NJIDANIEL4-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NJIDANIEL4)](https://twitter.com/NJIDANIEL4/) [![Linkedin Badge](https://img.shields.io/badge/-nji-daniel-cm-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nji-daniel-cm-0b8ba0195/)
+[![Twitter Badge](https://img.shields.io/badge/-@NJIDANIEL4-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NJIDANIEL4)](https://twitter.com/NJIDANIEL4/) [![Linkedin Badge](https://img.shields.io/badge/-nji-daniel-🇨🇲-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nji-daniel-cm-0b8ba0195/)
  [![Mail Badge](https://img.shields.io/badge/-Daniel-TheProgrammer-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https:// https://youtu.be/2QYtF8J0sls)  [![Mail Badge](https://img.shields.io/badge/-@njidanilo-405DE6?style=flat&labelColor=5851DB&logo=instagram&logoColor=white)](https://instagram.com/njidanilo)
 
 
