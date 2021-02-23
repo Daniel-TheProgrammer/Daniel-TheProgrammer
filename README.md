@@ -23,6 +23,26 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Daniel-TheProgrammer)
 
 #### 📫 How to reach me: ...
+*Good morning Guys..*
+Hope we are doing great..
+
+Please I will like to connect with you guys here 1 on 1 if you don't mind
+Am ```Daniel Theprogrammer ```😎👨🏾‍💻
+
+We can connect using this medium..
+
+1) Github: https://github.com/Daniel-TheProgrammer
+2)Twitter: https://twitter.com/NJIDANIEL4?s=09
+3)Instagram: https://www.instagram.com/p/CLYMwNLBYRH/?igshid=1p4o8w5a8opyj
+4)Linkedin: https://www.linkedin.com/in/nji-daniel-🇨🇲-96b964183
+5)Please subscribe to me on YouTube for more tech related stuffs🙏🏾: https://youtu.be/2QYtF8J0sls
+6)Whatsapp: +237671062539
+
+
+*Hoping to network and hear from you all*
+*Happy Hacking 🤓*
+
+*As soon as you follow I will follow back*😇❤️
 
 
 
