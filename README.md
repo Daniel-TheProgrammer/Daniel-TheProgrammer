@@ -2,7 +2,7 @@
 
  A Full Stack Web Developer| App Developer | Available to Solve Real Live Problems through Code
 - 🔭 I’m currently working on my portfolio projects
-- 🌱 I’m currently learning Flutter Powered by Django Backend
+- 🌱 I’m currently learning Ionic Framework
 
 #### Activity
 <!--START_SECTION:waka-->
