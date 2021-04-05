@@ -9,6 +9,7 @@
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
 
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-TheProgrammer&hide=scss&layout=compact&theme=tokyonight)
 
 
 
