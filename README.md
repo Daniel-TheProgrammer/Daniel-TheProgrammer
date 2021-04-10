@@ -2,7 +2,7 @@
 
  A Full Stack Web Developer| App Developer | Available to Solve Real Live Problems through Code
 - 🔭 I’m currently working on projects
-- 🌱 I’m currently learning React ++ Ionic  
+- 🌱 I’m currently learning React ++ Typescript
 
 #### Activity
 <!--START_SECTION:waka-->
