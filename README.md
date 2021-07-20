@@ -4,8 +4,6 @@
 - 🔭 I’m currently working on open source and Paid projects, Building Some Apps With Flutter
 - 🌱 I’m currently learning  Full Stack Roles 
 
-#### Links To My Hosted Apps On PLaystore
-
 ## APPS NAME: 	
 - 🔭 Red Heart Yellow Ball Game and Play Live Quiz
 - 🔭 Code With DTP
