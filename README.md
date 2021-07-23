@@ -6,7 +6,7 @@
 
 ## APPS NAME: 	
 - 🔭 Red Heart Yellow Ball Game and Play Live Quiz
-- 🔭 Code With DTP
+- 🔭 Code With DTP.
 
 ## Link To Download:
 - 🔭  https://play.google.com/store/apps/details?id=red.heart.yellow.ball
