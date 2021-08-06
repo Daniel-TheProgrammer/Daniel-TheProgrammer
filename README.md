@@ -2,7 +2,7 @@
 
  A Full Stack Web Developer| App Developer | Youtuber | Available to Solve Real Live Problems through Code
 - 🔭 I’m currently working on open source and Paid projects, Building Some Apps With Flutter
-- 🌱 I’m currently learning  Full Stack Roles .
+- 🌱 I’m currently learning  Project Management & Full Stack Roles .
 
 ## APPS NAME: 	
 - 🔭 Red Heart Yellow Ball Game and Play Live Quiz
