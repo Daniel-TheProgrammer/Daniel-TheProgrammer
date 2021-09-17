@@ -18,15 +18,7 @@
 #### Activity
 <!--START_SECTION:waka-->
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
-
-
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-TheProgrammer&hide=scss&layout=compact&theme=tokyonight)
-
-
-
 <!--END_SECTION:waka-->
-
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Daniel-TheProgrammer&theme=vue&show_icons=true&count_private=true)
  
