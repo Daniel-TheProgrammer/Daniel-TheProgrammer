@@ -22,10 +22,6 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Daniel-TheProgrammer&theme=vue&show_icons=true&count_private=true)
  
- #### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Daniel-TheProgrammer)
-
 #### 📫 How to reach me: ...
 
 
@@ -41,5 +37,3 @@
          alt="Daniel-Programmer's Github Metrics"
     />
 </p>
-
-
