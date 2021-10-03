@@ -17,7 +17,7 @@
 - 🔭  https://play.google.com/store/apps/details?id=red.heart.yellow.ball
 - 🔭 https://play.google.com/store/apps/details?id=com.code.from.scratch.withme
 - 🔭 https://play.google.com/store/apps/details?id=com.dtp.player
-- 🔭 In Review
+- 🔭 https://play.google.com/store/apps/details?id=com.business.manuals
 - 🔭 Not Yet Available on playstore
 
 #### Activity
