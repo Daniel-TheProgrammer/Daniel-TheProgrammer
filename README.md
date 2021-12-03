@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on open source and Paid projects,VUe js & Building Some Apps With Flutter & Firebase
-- 🌱 I’m currently learning  Project Management & Full Stack Roles
+- 🌱 I’m currently learning  Javascript(Next JS) Project Management & Full Stack Roles
 
 
 ## APPS NAME: 	
