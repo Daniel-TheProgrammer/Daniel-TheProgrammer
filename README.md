@@ -12,6 +12,7 @@
 - 🔭 Code With DTP
 - 🔭 DTP Video Player
 - 🔭 Business Manuals
+- 🔭 Stickers Chary Garu-Mana Telugu Stickerlu
 - 🔭 Careelo
 
 ## Link To Download:
@@ -19,6 +20,7 @@
 - 🔭 https://play.google.com/store/apps/details?id=com.code.from.scratch.withme
 - 🔭 https://play.google.com/store/apps/details?id=com.dtp.player
 - 🔭 https://play.google.com/store/apps/details?id=com.business.manuals
+- 🔭 https://play.google.com/store/apps/details?id=com.manatelugu.waastickers
 - 🔭 Not Yet Available on playstore
 
 #### Activity
