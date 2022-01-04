@@ -24,9 +24,6 @@
 - 🔭 Not Yet Available on playstore
 
 #### Activity
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Daniel-TheProgrammer&theme=vue&show_icons=true&count_private=true)
  
