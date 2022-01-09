@@ -22,10 +22,6 @@
 - 🔭 https://play.google.com/store/apps/details?id=com.business.manuals
 - 🔭 https://play.google.com/store/apps/details?id=com.manatelugu.waastickers
 - 🔭 Not Yet Available on playstore
-
-#### Activity
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=Daniel-TheProgrammer&theme=vue&show_icons=true&count_private=true)
  
 #### 📫 How to reach me: ...
 
