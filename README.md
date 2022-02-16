@@ -31,14 +31,3 @@
 [![Mail Badge](https://img.shields.io/badge/-@njidanilo-405DE6?style=flat&labelColor=5851DB&logo=instagram&logoColor=white)](https://instagram.com/njidanilo)
 
 
-### Global Stats (OpenSource activity)
-<p>
-    <img width="600"  
-         src="https://metrics.lecoq.io/Daniel-TheProgrammer?id=Daniel-TheProgrammer" 
-         alt="Daniel-Programmer's Github Metrics"
-    />
-</p>
-
-![Daniel TheProgrammer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-TheProgrammer&show_icons=true&theme=cobalt&count_private=true&show_icons=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Daniel-TheProgrammer&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
