@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on open source and Paid projects,VUe js & Building Some Apps With Flutter & Firebase
-- 🌱 I’m currently learning  Blockchain Technology
+- 🌱 I’m currently learning  Blockchain Technology & Typescript
 
 
 ## APPS NAME: 	
