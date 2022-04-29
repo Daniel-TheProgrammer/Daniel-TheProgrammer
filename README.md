@@ -5,6 +5,7 @@
 
 - 🔭 I’m currently working on open source and Paid projects,VUe js & Building Some Apps With Flutter & Firebase
 - 🌱 I’m currently learning  Blockchain Technology & Typescript
+- 🌱 From time to time, I create YouTube videos around web development and always love getting feedbacks.
 
 
 ## APPS NAME: 	
@@ -24,10 +25,9 @@
 - 🔭 Not Yet Available on playstore
  
 #### 📫 How to reach me: ...
+[![Mail Badge](https://img.shields.io/badge/-njidan-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:njid18753@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@itz_omen-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NJIDANIEL4)](https://twitter.com/NJIDANIEL4) [![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/nji-daniel-%F0%9F%87%A8%F0%9F%87%B2-96b964183/style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nji-daniel-%F0%9F%87%A8%F0%9F%87%B2-96b964183/)
+ 
 
 
-[![Mail Badge](https://img.shields.io/badge/-njidaniel-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:njid18753@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@NJIDANIEL4-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NJIDANIEL4)](https://twitter.com/NJIDANIEL4/) 
-[![Mail Badge](https://img.shields.io/badge/-@njidanilo-405DE6?style=flat&labelColor=5851DB&logo=instagram&logoColor=white)](https://instagram.com/njidanilo)
-
-
+ 
