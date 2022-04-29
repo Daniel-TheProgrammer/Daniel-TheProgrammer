@@ -24,10 +24,3 @@
 - 🔭 https://play.google.com/store/apps/details?id=com.manatelugu.waastickers
 - 🔭 Not Yet Available on playstore
  
-#### 📫 How to reach me: ...
-[![Mail Badge](https://img.shields.io/badge/-njidan-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:njid18753@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@itz_omen-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NJIDANIEL4)](https://twitter.com/NJIDANIEL4) [![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/nji-daniel-%F0%9F%87%A8%F0%9F%87%B2-96b964183/style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nji-daniel-%F0%9F%87%A8%F0%9F%87%B2-96b964183/)
- 
-
-
- 
