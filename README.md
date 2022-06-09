@@ -5,6 +5,12 @@
 - 🌱 I’m currently learning  Blockchain Technology & Typescript
 - 🌱 From time to time, I create YouTube videos around web development and always love getting feedbacks.
 
+#### Activity
+<!--START_SECTION:waka-->
+
+![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/4213?logoColor=white%26project=%26recentMS=0%26showProject=false)
+
+
 
 ## APPS NAME: 	
 - 🔭 Red Heart Yellow Ball Game and Play Live Quiz
