@@ -16,5 +16,6 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-TheProgrammer&langs_count=20&layout=compact&theme=midnight-purple&align=right&width=100%&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-TheProgrammer&langs_count=20&layout=compact&theme=midnight-purple&align=right&width=100%&hide_border=true)](https://github.com/Daniel-TheProgrammer/github-readme-stats)
+
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Daniel-TheProgrammer&theme=midnight-purple&align=ce&width=100%&hide_border=true" alt="Daniel-TheProgrammer" /></p>
