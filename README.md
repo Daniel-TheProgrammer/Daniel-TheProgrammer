@@ -12,3 +12,9 @@
 - 🔭 <a href="https://play.google.com/store/apps/details?id=red.heart.yellow.ball"> Red Heart Yellow Ball Game and Play Live Quiz</a>
 - 🔭 <a href="https://play.google.com/store/apps/details?id=com.code.from.scratch.withme"> Code With DTP </a>
 - 🔭 <a href="https://play.google.com/store/apps/details?id=com.dtp.player">  DTP Video Player  </a>
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-TheProgrammer&langs_count=20&layout=compact&theme=midnight-purple&align=right&width=100%&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Daniel-TheProgrammer&theme=midnight-purple&align=ce&width=100%&hide_border=true" alt="Daniel-TheProgrammer" /></p>
