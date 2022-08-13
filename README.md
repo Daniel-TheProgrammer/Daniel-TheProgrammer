@@ -14,7 +14,7 @@
 - 🔭 <a href="https://play.google.com/store/apps/details?id=com.dtp.player">  DTP Video Player  </a>
 
 ## Youtuber
-- 👷 Please subscibe to my youtube channel here [Subcribe to Daniel TheProgrammer](https://www.youtube.com/c/DanieltheProgrammer100)
+- 👷 Please subscribe to my youtube channel here [Subscribe to Daniel TheProgrammer](https://www.youtube.com/c/DanieltheProgrammer100)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-TheProgrammer&langs_count=20&layout=compact&theme=midnight-purple&align=right&width=100%&hide_border=true)](https://github.com/Daniel-TheProgrammer/github-readme-stats)
