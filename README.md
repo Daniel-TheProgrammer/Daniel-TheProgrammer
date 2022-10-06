@@ -1,7 +1,7 @@
  ## Hi, <a href="https://daniel-theprogrammer.github.io/Portfolio/#portfolio"> I'm Nji Daniel </a> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="21px" height="21px" alt="hi">
 
 - 🔭 I’m currently working on open source projects and i have fun Building Some Apps With Flutter & Firebase
-- 🌱 I’m currently learning  Blockchain Technology & Typescript
+- 🌱 I’m currently learning  Blockchain Technology & Typescript / Swift
 - 🌱 From time to time, I create YouTube videos around web development and programming related stuffs and always love getting feedbacks.
 - 👷🏾‍♂️ Passionate about building secure products with a strong background in secure coding practices.
 - 📖 Learns all things about technology.
